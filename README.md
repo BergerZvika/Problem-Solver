@@ -18,8 +18,48 @@ Yonatan Davidov
 
 
 
+## Files
+- main.cpp
 
+### server and clinet files
+- Server.h
+- MySerialServer.h
+- MySerialServer.cpp
+- MyParallelServer.h
+- MyParallelServer.cpp
+- ClientHandler.h
+- MyClientHsndler.h
+- MyClientHsndler.cpp
+- MyTestClientHandler.h
+- MyTestClientHandler.cpp
 
+### Cahe Manager Files
+- CacheManager.h
+- CacheManager.cpp
+- FileCacheManager.h
+- FileCacheManager.cpp
+
+### Solver Files
+- Solver.h
+- StringReverser.h
+- StringReverser.cpp
+- ObjectAdapter.h
+- ObjectAdapter.cpp
+
+### searcher Files
+- Searcher.h
+- BFS.h
+- DFS.h
+- BestFirstSearch.h
+- AStar.h
+
+### Searchable Files
+- Searcheable.h
+- SearcheableMatrix.h
+- SearcheableMatrix.cpp
+- State.h
+- Vertax.h
+-Vertax.cpp
 
 ## Links
 - our github link https://github.com/BergerZvika/Problem-Solver.git
