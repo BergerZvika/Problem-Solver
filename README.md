@@ -61,5 +61,16 @@ Yonatan Davidov
 - Vertax.h
 -Vertax.cpp
 
+### Txt Files
+- astar.txt
+- bestfs.txt
+- bfs.txt
+- dfs.txt
+- git_log.txt
+- matrix.txt
+- solve.txt
+
+### PDF Files
+- graf.pdf
 ## Links
 - our github link https://github.com/BergerZvika/Problem-Solver.git
