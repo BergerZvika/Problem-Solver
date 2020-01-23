@@ -15,8 +15,11 @@ Yonatan Davidov
 - **I.D** : 308447234
 - **Submit name** : davidoy5
 
-
-
+## Description
+This project handel eith client who gave search problem of matrix path.
+the server manage a cache manager with sulution of problem who already solved and solver
+for new problem.
+the solver use A* algorithm to find fastest path to the goal state.
 
 ## Files
 - main.cpp
