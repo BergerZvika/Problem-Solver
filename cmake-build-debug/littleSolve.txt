@@ -1,0 +1,8 @@
+BFS:				Num of Nodes: 25.	 cost: 257
+DFS:				Num of Nodes: 33.	 cost: 303
+BestFirstSearch:	Num of Nodes: 25.	 cost: 179
+AStar:				Num of Nodes: 25.	 cost: 179
+BFS:				Num of Nodes: 3.	 cost: 44
+DFS:				Num of Nodes: 3.	 cost: 44
+BestFirstSearch:	Num of Nodes: 5.	 cost: 12
+AStar:				Num of Nodes: 5.	 cost: 12
