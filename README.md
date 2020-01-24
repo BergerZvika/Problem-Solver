@@ -22,7 +22,9 @@ for new problem.
 the solver use A* algorithm to find fastest path to the goal state.
 
 ## Test Algorithm
-
+to choose the nost powerfull algorithm we do test. we choose random 10 matrix beetween 10x10 to 50x50 and run all 4 algorithm 
+(bfs, dfs, best first search. a*) and check who is the most faster and who return the lowest cost. all the deatails we show with graf in
+pdf file graf.pdf
 
 ## Files
 - main.cpp
