@@ -21,6 +21,9 @@ the server manage a cache manager with sulution of problem who already solved an
 for new problem.
 the solver use A* algorithm to find fastest path to the goal state.
 
+## Test Algorithm
+
+
 ## Files
 - main.cpp
 
